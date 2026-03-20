@@ -1,8 +1,10 @@
-# Webentwicklung für Kanzleien in Deutschland
+# Ich baue Systeme, die Kanzleien messbar mehr Anfragen bringen
 
-Ich baue Systeme, die Kanzleien messbar mehr Anfragen bringen.
+Webentwicklung für Kanzleien und Berater in Deutschland.
 
 Dabei unterstütze ich Rechtsanwält:innen und Kanzleien beim seriösen, schnellen und wartbaren Web‑Auftritt – mit Fokus auf **Sicherheit**, **Performance** und **Datenschutz‑Awareness (DSGVO/TDDDG)**.
+
+→ Kostenlose Kanzlei-Website Analyse: https://baybars.de/kanzlei-analyse 
 
 **Berlin / Remote** · DE/EN · Antwort i. d. R. innerhalb von **1 Werktag**  
 📩 **rasim@duck.com**
