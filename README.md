@@ -1,6 +1,8 @@
 # Webentwicklung für Kanzleien in Deutschland
 
-Ich unterstütze Rechtsanwält:innen und Kanzleien beim seriösen, schnellen und wartbaren Web‑Auftritt – mit Fokus auf **Sicherheit**, **Performance** und **Datenschutz‑Awareness (DSGVO/TDDDG)**.
+Ich baue Systeme, die Kanzleien messbar mehr Anfragen bringen.
+
+Dabei unterstütze ich Rechtsanwält:innen und Kanzleien beim seriösen, schnellen und wartbaren Web‑Auftritt – mit Fokus auf **Sicherheit**, **Performance** und **Datenschutz‑Awareness (DSGVO/TDDDG)**.
 
 **Berlin / Remote** · DE/EN · Antwort i. d. R. innerhalb von **1 Werktag**  
 📩 **rasim@duck.com**
