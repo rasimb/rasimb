@@ -1,16 +1,20 @@
-## Hi there 👋
+# Webentwicklung für Kanzleien in Deutschland
 
-<!--
-**rasimb/rasimb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich unterstütze Rechtsanwält:innen und Kanzleien beim seriösen, schnellen und wartbaren Web‑Auftritt – mit Fokus auf **Sicherheit**, **Performance** und **Datenschutz‑Awareness (DSGVO/TDDDG)**.
 
-Here are some ideas to get you started:
+**Berlin / Remote** · DE/EN · Antwort i. d. R. innerhalb von **1 Werktag**  
+📩 **rasim@duck.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Leistungen (typische Aufgaben)
+- Kanzlei‑Website Audit (Technik/SEO/Performance/Security‑Basics)
+- Relaunch/Neubau + saubere Übergabe & Doku
+- Datenschutz‑bewusste Kontaktstrecken (technisch; kein Rechtsrat)
+- Wartung & kleine Änderungen (Retainer)
+
+## Kontakt / Nächster Schritt
+Schicken Sie mir gerne:
+1) URL (falls vorhanden)
+2) Ziel (Audit / Relaunch / Wartung)
+3) Zeitfenster
+
+Hinweis: Bitte keine vertraulichen Mandatsdaten per E‑Mail senden.
