@@ -4,9 +4,9 @@ Webentwicklung für Kanzleien und Berater in Deutschland.
 
 Dabei unterstütze ich Rechtsanwält:innen und Kanzleien beim seriösen, schnellen und wartbaren Web‑Auftritt – mit Fokus auf **Sicherheit**, **Performance** und **Datenschutz‑Awareness (DSGVO/TDDDG)**.
 
+
 → Kostenlose Kanzlei-Website Analyse: https://baybars.de/kanzlei-analyse 
 
-**Berlin / Remote** · DE/EN · Antwort i. d. R. innerhalb von **1 Werktag**  
 
 ## Leistungen (typische Aufgaben)
 - Kanzlei‑Website Audit (Technik/SEO/Performance/Security‑Basics)
@@ -23,3 +23,4 @@ Schicken Sie mir gerne:
 📩 **rasim@duck.com**
 
 Hinweis: Bitte keine vertraulichen Mandatsdaten per E‑Mail senden.
+**Berlin / Remote** · DE/EN · Antwort i. d. R. innerhalb von **1 Werktag**  
