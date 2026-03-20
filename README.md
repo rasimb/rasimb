@@ -8,7 +8,7 @@ Ich unterstütze Rechtsanwält:innen und Kanzleien beim seriösen, schnellen und
 ## Leistungen (typische Aufgaben)
 - Kanzlei‑Website Audit (Technik/SEO/Performance/Security‑Basics)
 - Relaunch/Neubau + saubere Übergabe & Doku
-- Datenschutz‑bewusste Kontaktstrecken (technisch; kein Rechtsrat)
+- Datenschutz‑bewusste Kontaktstrecken (technisch; keine Rechtsberatung)
 - Wartung & kleine Änderungen (Retainer)
 
 ## Kontakt / Nächster Schritt
