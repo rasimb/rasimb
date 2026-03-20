@@ -7,7 +7,6 @@ Dabei unterstütze ich Rechtsanwält:innen und Kanzleien beim seriösen, schnell
 → Kostenlose Kanzlei-Website Analyse: https://baybars.de/kanzlei-analyse 
 
 **Berlin / Remote** · DE/EN · Antwort i. d. R. innerhalb von **1 Werktag**  
-📩 **rasim@duck.com**
 
 ## Leistungen (typische Aufgaben)
 - Kanzlei‑Website Audit (Technik/SEO/Performance/Security‑Basics)
@@ -20,5 +19,7 @@ Schicken Sie mir gerne:
 1) URL (falls vorhanden)
 2) Ziel (Audit / Relaunch / Wartung)
 3) Zeitfenster
+
+📩 **rasim@duck.com**
 
 Hinweis: Bitte keine vertraulichen Mandatsdaten per E‑Mail senden.
